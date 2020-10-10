@@ -1,4 +1,4 @@
-### Hey👋
+### Hey, Hows it going?👋
 
 - 🎓 Studying Computer Science and Business Double Degree (CS/BBA) from [University of Waterloo](https://cs.uwaterloo.ca/about)
 - 💬 Ask me about cricket 🏏 , swimming 🏊 , or Ping Pong 🏓
