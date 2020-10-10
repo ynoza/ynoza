@@ -1,4 +1,10 @@
-### 👋
+### Hey👋
+
+- 🎓 Studying Computer Science and Business Double Degree (CS/BBA) from [University of Waterloo](https://cs.uwaterloo.ca/about)
+- 💬 Ask me about cricket 🏏 , swimming 🏊 , or Ping Pong 🏓
+- 🎵 Let me know if you like Drake , The Weeknd, or Post Malone and maybe we could give each other music recommendations
+- 😋 I'm currently working on a project like Fooder thats meant for users having difficulty choosing what to eat. It allows users to swipe through dishes (based off
+nearby restaurants and dietary restrictions, etc.) and match them with a restaurant
 
 ### Languages:
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
