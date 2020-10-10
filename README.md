@@ -1,7 +1,7 @@
 ### Hey, Hows it going?👋
 
 - 🎓 Computer Science and Business Double Degree (CS/BBA) student at [University of Waterloo](https://cs.uwaterloo.ca/about)
-- 💬 Ask me about cricket 🏏 , swimming 🏊 , Traveling ✈️ , or Ping Pong 🏓 via [![Linkedin Badge](https://img.shields.io/badge/-Yash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oza/)](https://www.linkedin.com/in/oza/) or email (to get my email check out [ynoza.github.io](link=https://www.ynoza.github.io)) 
+- 💬 Ask me about cricket 🏏 , swimming 🏊 , Traveling ✈️ , or Ping Pong 🏓 via [![Linkedin Badge](https://img.shields.io/badge/-Yash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oza/)](https://www.linkedin.com/in/oza/) or email (to get my email check out my website) 
 - 🎵 Let me know if you like Drake , The Weeknd, or Post Malone and maybe we could give each other music recommendations
 - 😋 I'm currently working on a project like Fooder thats meant for users having difficulty choosing what to eat. It allows users to swipe through dishes (based off
 nearby restaurants and dietary restrictions, etc.) and match them with a restaurant
