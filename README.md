@@ -1,6 +1,6 @@
 ### Hey, Hows it going?👋
 
-- 🎓 Studying Computer Science and Business Double Degree (CS/BBA) from [University of Waterloo](https://cs.uwaterloo.ca/about)
+- 🎓 Computer Science and Business Double Degree (CS/BBA) student at [University of Waterloo](https://cs.uwaterloo.ca/about)
 - 💬 Ask me about cricket 🏏 , swimming 🏊 , or Ping Pong 🏓
 - 🎵 Let me know if you like Drake , The Weeknd, or Post Malone and maybe we could give each other music recommendations
 - 😋 I'm currently working on a project like Fooder thats meant for users having difficulty choosing what to eat. It allows users to swipe through dishes (based off
