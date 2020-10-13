@@ -3,7 +3,7 @@
 - 🎓 Computer Science and Business Double Degree (CS/BBA) student at [University of Waterloo](https://cs.uwaterloo.ca/about)
 - 💬 Ask me about cricket 🏏 , swimming 🏊 , Traveling ✈️ , or Ping Pong 🏓 via my website
 - 🎵 Let me know if you like Drake , The Weeknd, or Post Malone and maybe we could give each other music recommendations
-- 😋 I'm currently working on a project like Fooder thats meant for users having difficulty choosing what to eat. It allows users to swipe through dishes (based off
+- 😋 I'm currently working on a project called Fooder that's meant for users having difficulty choosing what to eat. It allows users to swipe through dishes (based off
 nearby restaurants and dietary restrictions, etc.) and match them with a restaurant
 
 ### Languages:
